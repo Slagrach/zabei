@@ -472,8 +472,10 @@ body {
 .slider-items:before {
     content: url("../img/sliderBg.png");
     position: absolute;
-    top: -7%;
-    left: 31%;
+    top: -6%;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
 
 .slick-slider {
